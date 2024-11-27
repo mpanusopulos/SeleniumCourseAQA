@@ -1,0 +1,6 @@
+
+}
+java:S1118
+":Add a private constructor to hide the implicit public one.(›âþ×8¸ïúÆ¶2J$1eb1fc0c-692f-435e-bc99-dfac24ab8810
+Ö
+java:S1130"“Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.(Ëˆß28¹ïúÆ¶2J$0c5577d9-5cc7-42b7-b6d2-04cc09c01927

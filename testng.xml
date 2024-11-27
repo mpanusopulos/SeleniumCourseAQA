@@ -1,0 +1,14 @@
+<suite name="Test Suite">
+    <!-- Definir los listeners aquí -->
+    <listeners>
+        <listener class-name="tests.TestListener"/>
+    </listeners>
+
+    <!-- Definir los tests que se van a ejecutar -->
+    <test name="Test">
+        <classes>
+            <class name="tests.HomeTest"/>
+        </classes>
+    </test>
+
+</suite>
