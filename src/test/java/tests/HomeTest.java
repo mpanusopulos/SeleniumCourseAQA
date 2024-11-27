@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 public class HomeTest {
     private HomePage homePage;
     private CheckoutPage checkoutPage;
-
+    // Esto es una pruebas
     @BeforeMethod
     public void setUp(){
         // Asegúrate de que el controlador se inicialice correctamente
@@ -21,7 +21,7 @@ public class HomeTest {
         checkoutPage = new CheckoutPage(); // Asegúrate de inicializar ambas páginas
     }
 
-    // Esto es una prueba
+
     @Test
     public void testGoToCheckout(){
         Faker faker = new Faker();
